@@ -1,0 +1,1 @@
+If you fall asleep reading academic papers as I do, maybe you'd like your Mac to read it to you. Simply copy paste into the "text" parameter. It will get rid of paper references so it doesnt read off all the numbers, as well a get rid of unicode characters. 
